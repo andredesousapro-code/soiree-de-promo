@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-- pizza
-- gâteau au chocolat
-=======
-Liste de courses
-- chips
-- jus de pomme
->>>>>>> a0ef65a10fddd86b93ce76764c3d3842644a1d13
