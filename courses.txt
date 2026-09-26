@@ -4,3 +4,4 @@ Liste de courses
 - puces
 - jus de pomme
 - glaçons
+- serviettes
